@@ -1,4 +1,4 @@
-for i in range(700):
+for i in range(5):
     print(i)
 
 x = 7
